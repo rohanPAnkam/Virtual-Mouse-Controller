@@ -1,0 +1,1 @@
+image = cv2.cvtColor(cv2.flip(image, 1), cv2.COLOR_BGR2RGB)
